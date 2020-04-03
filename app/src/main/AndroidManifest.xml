@@ -10,9 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
-        <activity android:name=".Homework">
-
-        </activity>
+        <activity android:name=".Homework"></activity>
         <activity android:name=".Main2Activity" />
         <activity android:name=".Main3Activity">
             <intent-filter>
@@ -21,6 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".aaa"></activity>
     </application>
 
 </manifest>
